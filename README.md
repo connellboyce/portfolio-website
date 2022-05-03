@@ -18,11 +18,11 @@ accomplishments, and potentially even host a personal blog.
   tutorials and create unique website layout.
 
 ### Resources Used
-1. [Build a Complete Personal Portfolio Website Using Only HTML And CSS | Pure HTML And CSS](https://www.youtube.com/watch?v=lgeoAUvoRJU&ab_channel=TahmidAhmed)
-2. [CSS Text Typing Animation | HTML & CSS](https://www.youtube.com/watch?v=CqBEmgkR_fQ)
+* [Build a Complete Personal Portfolio Website Using Only HTML And CSS | Pure HTML And CSS](https://www.youtube.com/watch?v=lgeoAUvoRJU&ab_channel=TahmidAhmed)
+* [CSS Text Typing Animation | HTML & CSS](https://www.youtube.com/watch?v=CqBEmgkR_fQ)
 
 ### Libraries Used
-[Font Awesome Library](https://cdnjs.com/libraries/font-awesome)
-[Font Awesome Catalog](https://fontawesome.com/icons/twitter?s=brands)
-[Josefin Font - Google APIs](https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap)
-[gStatic Fonts](https://fonts.gstatic.com)
+* [Font Awesome Library](https://cdnjs.com/libraries/font-awesome)
+* [Font Awesome Catalog](https://fontawesome.com/icons/twitter?s=brands)
+* [Josefin Font - Google APIs](https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap)
+* [gStatic Fonts](https://fonts.gstatic.com)
