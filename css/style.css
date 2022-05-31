@@ -4,12 +4,18 @@
     font-family: 'Josefin Sans', sans-serif;
     box-sizing: border-box;
 }
-.navigation{
-    height: 100vh;
-    width: 100%;
+body{
+    background-color: black;
+}
+.background-image{
     background-image: url(../img/background.jpg);
     background-size: cover;
     background-position: center;
+}
+.navigation{
+    background-color: black;
+    height: 100vh;
+    width: 100%;
 }
 nav{
     display: flex;
@@ -222,6 +228,21 @@ h5{
     border: 2px solid #f9004d;
     cursor: pointer;
 }
+.about-text .button{
+    background-color: #f9004d;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    transition: .4s;
+}
+.about-text .button:hover{
+    background-color: transparent;
+    border: 2px solid #f9004d;
+    cursor: pointer;
+}
 .contact-me{
     width: 100%;
     height: 290px;
@@ -329,6 +350,32 @@ footer p:nth-child(2){
     border-left: 2px solid #f9004d;
     animation: typing 3s steps(10) infinite;
     background-color: black;
+}
+.title-section .title{
+    margin-top: -60px;
+    margin-bottom: -60px;
+}
+.dark-grey-section{
+    width: 100%;
+    padding: 100px 0px;
+    background: #101010;
+}
+.dark-grey-section h2{
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+.light-grey-section{
+    width: 100%;
+    padding: 100px 0px;
+    background: #191919;
+}
+.light-grey-section h2{
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 25px;
 }
 
 @keyframes slide {
