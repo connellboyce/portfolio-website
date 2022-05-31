@@ -17,6 +17,7 @@ accomplishments, and potentially even host a personal blog.
 ### Developer Notes
 * <b><u>2 May 2022</u></b> - Completed initial 2 tutorials and have a presentable landing page. Need to build upon 
   tutorials and create unique website layout.
+* <b><u>31 May 2022</u></b> - Created initial "About Me" page. Added sample sections.
   
 ### Services Utilized
 * AWS Route 53
